@@ -10,3 +10,4 @@ function outer(){
 var t = outer()
 
 console.log("Devesh")
+console.log("Devesh 2")
